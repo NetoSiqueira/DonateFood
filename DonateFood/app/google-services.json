@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "782115018317",
+    "firebase_url": "https://pontocoleta-edb23.firebaseio.com",
+    "project_id": "pontocoleta-edb23",
+    "storage_bucket": "pontocoleta-edb23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782115018317:android:c664162ad99e27ef",
+        "android_client_info": {
+          "package_name": "com.example.siqueiraneto.doacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782115018317-m3b79ktrkhnq60hk45hmq926n2d46f05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe8xbnblbn8iNuOnVVBhQkXoitqORtxcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782115018317-m3b79ktrkhnq60hk45hmq926n2d46f05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
